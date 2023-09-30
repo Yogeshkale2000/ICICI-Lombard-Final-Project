@@ -1,0 +1,51 @@
+#mainpagecarimage{
+    height: 50px;
+}
+#mainpagescooterimage{
+    height: 32px;
+}
+#mainpagehealthimage{
+    height: 37px;
+}
+#mainpagestravelimage{
+    height: 28px;
+}
+#mainpagesbusinessimage{
+    height: 38px;
+}
+#mainpagesrenewalimage{
+    height: 30px;
+}
+.mainPagebox{
+    padding: 15px 15px 15px 15px;
+    background-color: rgb(248,246,246);
+    margin: 0px 10px 0px 10px;
+    border-radius: 20px;
+}
+.mainPagebox:hover{
+    background-color: rgb(255,232,207);
+}
+.mainPageIconName{
+    text-decoration: none;
+    border-bottom: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
